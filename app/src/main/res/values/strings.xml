@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Coding With Rohaitas</string>
+    <string name="roomIntro">We will create a Room Database To save name of users And observe them for any changes </string>
+</resources>
